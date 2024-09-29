@@ -2,7 +2,7 @@ compilation:
 $ make
 
 run:
-$ ./Show <filename>
+$ ./Show filename
 
 
 SPACE or KEY_DOWN to scroll down
