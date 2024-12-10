@@ -1,0 +1,24 @@
+# Russian translations for 'addition' package.
+# Copyright (C) 2024
+# This file is distributed under the same license as the 'addition' package.
+# FIRST AUTHOR <email@address>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: addition 1.0\n"
+"POT-Creation-Date: 2024-12-12\n"
+"PO-Revision-Date: 2024-12-12\n"
+"Last-Translator: Your Name <email@address>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main.c:19
+msgid "Usage: %s num1 num2\n"
+msgstr "Использование: %s число1 число2\n"
+
+#: src/main.c:26
+msgid "The sum of %d and %d is %d\n"
+msgstr "Сумма чисел %d и %d равна %d\n"
